@@ -63,8 +63,8 @@ console.log(
 
 //cau 2b
 
-// console.log(
-//   customFilter([0, 1, 2, 3, 4, 5, 6, 7, 8, 9], function (value) {
-//     return value % 2 === 0;
-//   })
-// );
+console.log(
+  customFilter([0, 1, 2, 3, 4, 5, 6, 7, 8, 9], function (value) {
+    return value % 2 === 0;
+  })
+);
